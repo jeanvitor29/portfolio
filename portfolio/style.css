@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+*{ margin: 0;
+ padding: 0;
+ ; box-sizing: border-box;
+ text-decoration: none;
+ background-color: rgb(179, 179, 179);
+}
+
+body{
+ font-size: 100%;
+
+}
+.header{
+ display: flex;
+ flex-direction: row
+ ;align-items: center;
+ justify-content: space-around;
+ padding: 30px;
+ background-color: black;
+}
+
+.img1{
+height: 100px;
+background-color: black;
+}
+
+
+.menu1{
+ display: flex;
+ gap: 32px
+ ;background-color: black;
+}
+
+.menu2{
+ font-family: 'Bungee Spice', cursive;
+ font-weight: 400;
+ font-size: 30px;
+ background-color: black;
+}
+.main1{
+ border-top: 5px solid rgb(255, 94, 0
+ );
+margin-bottom: 48px;
+}
+.conteudo1{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-around;}
+
+ .conteudop1{
+     display: flex
+     ;flex-direction: column;
+     gap: 32px
+     ;
+ }
+
+ .conteudop2{
+     font-family: 'Bungee Spice', cursive;
+     font-weight: 400;
+     font-size: 70px;
+     margin: 10px;
+     
+ }
+ .conteudop3{
+     font-family: 'Bungee Spice', cursive;
+     font-weight: 400;
+     font-size: 40px;
+     margin: 10px;
+ }
+ .conteudop4{
+       background-color: rgb(0, 0, 0);
+       width: 180px;
+ height: 60px;
+ border: none;
+ margin: 10px;
+box-shadow: 4px 5px 4px rgb(255, 94, 0)
+   ;border-radius: 20px;
+   font-family: 'Bungee Spice', cursive;
+     font-weight: 400;
+     font-size: 24px;}
+     .img2{
+         height: 600px;
+     }
+
+.conteudop5{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 24px
+ ;
+}
+.conteudop6{
+   border-top: 5px solid rgb(0, 0, 0);
+   padding-top: 25px;
+   font-family: 'Bungee Spice', cursive;
+   font-weight: 400;
+   font-size: 24px;
+}
+.conteudop7{
+        
+ font-family: 'Bungee Spice', cursive;
+ font-weight: 300;
+ font-size: 24px;
+
+}
+
+.contatos{
+ border-top: 5px solid rgb(0, 0, 0);
+ padding-top: 25px;
+ font-family: 'Bungee Spice', cursive;
+ font-weight: 400;
+ font-size: 24px;}
+
+.contato1{
+ font-family: 'Bungee Spice', cursive;
+ font-weight: 300;
+ font-size: 24px;
+
+}
+.final{
+ border-top: 5px solid rgb(0, 0, 0);
+ padding: 32px;
+
+}
