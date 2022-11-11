@@ -21,7 +21,7 @@ body{
 }
 
 .img1{
-  height: 80px;
+  height: 100px;
   background-color: black;
 }
 
@@ -35,7 +35,7 @@ body{
 .menu2{
     font-family: 'Bungee Spice', cursive;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 30px;
     background-color: black;
 }
 .main1{
